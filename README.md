@@ -5,9 +5,9 @@ These bunch of Scripts helps your System to get Slim and Trim after it becomes b
 The Scripts dont cause any Harm to your system neither Reduce it's Functionality
 
 # Steps to Use:
-1. Download the Archive
+1. Download or Clone the Repository
 2. Extract it to a Location you Remeber
-3. Open A Powershell on your system with Admin Priviledges
+3. Open A Powershell windows on your system with Admin Priviledges
 4. Type 'Set-ExecutionPolicy Unrestricted' and Hit Enter (Select 'Yes to All' in the Subsequent prompt)
 5. Navigate to the Folder where you Extracted WNDOPT3R and goto 'PS SCRIPTS' Folder
 6. Type 'ls' To List the Files
